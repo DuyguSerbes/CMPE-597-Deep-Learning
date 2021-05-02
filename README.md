@@ -44,3 +44,11 @@ python3 tsne.py
 
 ```
 
+## Structure
+* `data/` - all data sources required for training/validation/testing.
+* `report/` - report of project in pdf format and all required plots. 
+* `main.py/` - python code to load the dataset, shuffle the training data and divide it into mini-batches, the loop for the epoch and iterations, and evaluate the model on validation set during training
+* `Network.py/`-python code for the forward, backward propagation, and the activation functions.
+* `eval.py/` - python code to load the learned network parameters and evaluate the model on test data.
+* `tsne.py/` - python code to create 2-D plot of the embeddings using t-SNE. 
+
