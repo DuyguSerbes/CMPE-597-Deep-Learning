@@ -2,7 +2,7 @@
 
 A neural language model using a multi-layer perceptron from scratch. The model takes sequence of 3 words and predicts the forth word.
 
-##Overview
+## Overview
 
 The neural network consists of three layer. It predicts the next word according to given 3 words. First layer is 16-dimensional embedding layer, second layer is 128-dimensional hidden layer with sigmoid activation function whereas third layer is 250-dimensional output layer with softmax activation function. 
 
