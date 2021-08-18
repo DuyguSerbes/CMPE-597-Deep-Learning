@@ -9,4 +9,4 @@ Neural Network from Scratch
 3 layer CNN arcitecture
 
 ## Project3
-Varietional Autoencoder 
+Variational Autoencoder 
